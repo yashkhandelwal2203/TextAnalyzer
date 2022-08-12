@@ -1,7 +1,7 @@
 {
   "main.css": "/TextAnalyzer/static/css/main.8cc92a08.chunk.css",
-  "main.js": "/TextAnalyzer/static/js/main.d4aaaa48.chunk.js",
-  "main.js.map": "/TextAnalyzer/static/js/main.d4aaaa48.chunk.js.map",
+  "main.js": "/TextAnalyzer/static/js/main.18fe0172.chunk.js",
+  "main.js.map": "/TextAnalyzer/static/js/main.18fe0172.chunk.js.map",
   "static/js/1.97af9aab.chunk.js": "/TextAnalyzer/static/js/1.97af9aab.chunk.js",
   "static/js/1.97af9aab.chunk.js.map": "/TextAnalyzer/static/js/1.97af9aab.chunk.js.map",
   "static/js/2.985e8728.chunk.js": "/TextAnalyzer/static/js/2.985e8728.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TextAnalyzer/static/js/runtime~main.12536a27.js.map",
   "static/css/main.8cc92a08.chunk.css.map": "/TextAnalyzer/static/css/main.8cc92a08.chunk.css.map",
   "index.html": "/TextAnalyzer/index.html",
-  "precache-manifest.97f3fc7490ada89343cd079b2cbeb045.js": "/TextAnalyzer/precache-manifest.97f3fc7490ada89343cd079b2cbeb045.js",
+  "precache-manifest.0e6efeb999747701d37f4b30dfb91f62.js": "/TextAnalyzer/precache-manifest.0e6efeb999747701d37f4b30dfb91f62.js",
   "service-worker.js": "/TextAnalyzer/service-worker.js"
 }
