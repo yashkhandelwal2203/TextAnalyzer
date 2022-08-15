@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextAnalyzer/static/css/main.8cc92a08.chunk.css",
-  "main.js": "/TextAnalyzer/static/js/main.df9af1ee.chunk.js",
-  "main.js.map": "/TextAnalyzer/static/js/main.df9af1ee.chunk.js.map",
-  "static/js/1.97af9aab.chunk.js": "/TextAnalyzer/static/js/1.97af9aab.chunk.js",
-  "static/js/1.97af9aab.chunk.js.map": "/TextAnalyzer/static/js/1.97af9aab.chunk.js.map",
-  "static/js/2.985e8728.chunk.js": "/TextAnalyzer/static/js/2.985e8728.chunk.js",
-  "static/js/2.985e8728.chunk.js.map": "/TextAnalyzer/static/js/2.985e8728.chunk.js.map",
-  "runtime~main.js": "/TextAnalyzer/static/js/runtime~main.12536a27.js",
-  "runtime~main.js.map": "/TextAnalyzer/static/js/runtime~main.12536a27.js.map",
-  "static/css/main.8cc92a08.chunk.css.map": "/TextAnalyzer/static/css/main.8cc92a08.chunk.css.map",
-  "index.html": "/TextAnalyzer/index.html",
-  "precache-manifest.39d369fc182e316d86645beedd6e8464.js": "/TextAnalyzer/precache-manifest.39d369fc182e316d86645beedd6e8464.js",
-  "service-worker.js": "/TextAnalyzer/service-worker.js"
+  "main.css": "/TextAnalyzerWithModeVariation/static/css/main.8cc92a08.chunk.css",
+  "main.js": "/TextAnalyzerWithModeVariation/static/js/main.df9af1ee.chunk.js",
+  "main.js.map": "/TextAnalyzerWithModeVariation/static/js/main.df9af1ee.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "/TextAnalyzerWithModeVariation/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "/TextAnalyzerWithModeVariation/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.985e8728.chunk.js": "/TextAnalyzerWithModeVariation/static/js/2.985e8728.chunk.js",
+  "static/js/2.985e8728.chunk.js.map": "/TextAnalyzerWithModeVariation/static/js/2.985e8728.chunk.js.map",
+  "runtime~main.js": "/TextAnalyzerWithModeVariation/static/js/runtime~main.acefe2cf.js",
+  "runtime~main.js.map": "/TextAnalyzerWithModeVariation/static/js/runtime~main.acefe2cf.js.map",
+  "static/css/main.8cc92a08.chunk.css.map": "/TextAnalyzerWithModeVariation/static/css/main.8cc92a08.chunk.css.map",
+  "index.html": "/TextAnalyzerWithModeVariation/index.html",
+  "precache-manifest.6159ec7160f399f3fb7bba8c89a05747.js": "/TextAnalyzerWithModeVariation/precache-manifest.6159ec7160f399f3fb7bba8c89a05747.js",
+  "service-worker.js": "/TextAnalyzerWithModeVariation/service-worker.js"
 }
