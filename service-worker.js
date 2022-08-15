@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TextAnalyzerWithModeVariation/precache-manifest.6159ec7160f399f3fb7bba8c89a05747.js"
+  "/TextAnalyzerWithModeVariation.git/precache-manifest.df47f95dbc31c35d622461870756849d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TextAnalyzerWithModeVariation/index.html", {
+workbox.routing.registerNavigationRoute("/TextAnalyzerWithModeVariation.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

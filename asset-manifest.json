@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextAnalyzerWithModeVariation/static/css/main.8cc92a08.chunk.css",
-  "main.js": "/TextAnalyzerWithModeVariation/static/js/main.df9af1ee.chunk.js",
-  "main.js.map": "/TextAnalyzerWithModeVariation/static/js/main.df9af1ee.chunk.js.map",
-  "static/js/1.97af9aab.chunk.js": "/TextAnalyzerWithModeVariation/static/js/1.97af9aab.chunk.js",
-  "static/js/1.97af9aab.chunk.js.map": "/TextAnalyzerWithModeVariation/static/js/1.97af9aab.chunk.js.map",
-  "static/js/2.985e8728.chunk.js": "/TextAnalyzerWithModeVariation/static/js/2.985e8728.chunk.js",
-  "static/js/2.985e8728.chunk.js.map": "/TextAnalyzerWithModeVariation/static/js/2.985e8728.chunk.js.map",
-  "runtime~main.js": "/TextAnalyzerWithModeVariation/static/js/runtime~main.acefe2cf.js",
-  "runtime~main.js.map": "/TextAnalyzerWithModeVariation/static/js/runtime~main.acefe2cf.js.map",
-  "static/css/main.8cc92a08.chunk.css.map": "/TextAnalyzerWithModeVariation/static/css/main.8cc92a08.chunk.css.map",
-  "index.html": "/TextAnalyzerWithModeVariation/index.html",
-  "precache-manifest.6159ec7160f399f3fb7bba8c89a05747.js": "/TextAnalyzerWithModeVariation/precache-manifest.6159ec7160f399f3fb7bba8c89a05747.js",
-  "service-worker.js": "/TextAnalyzerWithModeVariation/service-worker.js"
+  "main.css": "/TextAnalyzerWithModeVariation.git/static/css/main.8cc92a08.chunk.css",
+  "main.js": "/TextAnalyzerWithModeVariation.git/static/js/main.df9af1ee.chunk.js",
+  "main.js.map": "/TextAnalyzerWithModeVariation.git/static/js/main.df9af1ee.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "/TextAnalyzerWithModeVariation.git/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "/TextAnalyzerWithModeVariation.git/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.985e8728.chunk.js": "/TextAnalyzerWithModeVariation.git/static/js/2.985e8728.chunk.js",
+  "static/js/2.985e8728.chunk.js.map": "/TextAnalyzerWithModeVariation.git/static/js/2.985e8728.chunk.js.map",
+  "runtime~main.js": "/TextAnalyzerWithModeVariation.git/static/js/runtime~main.ec9b6028.js",
+  "runtime~main.js.map": "/TextAnalyzerWithModeVariation.git/static/js/runtime~main.ec9b6028.js.map",
+  "static/css/main.8cc92a08.chunk.css.map": "/TextAnalyzerWithModeVariation.git/static/css/main.8cc92a08.chunk.css.map",
+  "index.html": "/TextAnalyzerWithModeVariation.git/index.html",
+  "precache-manifest.df47f95dbc31c35d622461870756849d.js": "/TextAnalyzerWithModeVariation.git/precache-manifest.df47f95dbc31c35d622461870756849d.js",
+  "service-worker.js": "/TextAnalyzerWithModeVariation.git/service-worker.js"
 }
